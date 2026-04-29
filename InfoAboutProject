@@ -1,0 +1,8 @@
+Your project didn’t have a default admin user, so I added a seeder and seeded the DB. You can now log in at /admin/login with:
+
+Email: admin@freshcery.test
+Password: admin12345
+
+
+user Email : admin@freshcery.test
+Password : 123456789
